@@ -17,8 +17,8 @@ Vue3 | Vue Router | Pinia | Axios | TailwindCSS | Vite
 3. npm run dev
 
 ## 배포 링크
-https://example.netlify.app
+https://ygk103.github.io/searchMovies/
 
 ## 스크린샷
-![홈 화면](./screenshots/home.png)
-![상세 화면](./screenshots/detail.png)
+![홈 화면](https://ygk103.github.io/searchMovies/)
+<!-- ![상세 화면](./screenshots/detail.png) -->
