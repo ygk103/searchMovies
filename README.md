@@ -20,5 +20,5 @@ Vue3 | Vue Router | Pinia | Axios | TailwindCSS | Vite
 https://ygk103.github.io/searchMovies/#/
 
 ## 스크린샷
-![홈 화면](https://ygk103.github.io/searchMovies/#/)
+![홈 화면](./src//assets//images/screenshot.png)
 <!-- ![상세 화면](./screenshots/detail.png) -->
