@@ -18,6 +18,7 @@ Vue3 | Vue Router | Pinia | Axios | TailwindCSS | Vite
 
 ## 배포 링크
 https://ygk103.github.io/searchMovies/#/
+안 보이실 경우 새로고침 한번 하시면 됩니다.
 
 ## 스크린샷
 ![홈 화면](https://ygk103.github.io/searchMovies/#/)
